@@ -1,1 +1,3 @@
 send-bitcoin/target
+blockchain-info-app/target
+.env
